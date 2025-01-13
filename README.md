@@ -3,4 +3,4 @@
 *NIM:* [220010048]  
 
 ### Screenshot Aplikasi
-![Screenshot Halaman Create Comment](path/to/screenshot.png)
+![Screenshot Halaman Create Comment](https://github.com/Febriwirasada/Tugaspertemuan06.git)
